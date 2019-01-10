@@ -45,7 +45,7 @@ public class BillingInfoPage extends ActionMethods
 		ActionMethods.clearText(BillAddressBox,"name");
 		ActionMethods.EnterText(BillAddressBox,"name",bAddress);
 	}
-	
+#Checking Jira	
 	/**
 	 * @author DHIRESH
 	 * Description: Enter city on Billing information page
