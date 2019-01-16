@@ -23,7 +23,7 @@ public class OrderConfirmPage extends ActionMethods {
 		//ActionMethods.captureScreenshot("Order Confirmation Page");
 	}
 	
-//for demo checking	
+	
 	/**
 	 * @author DHIRESH
 	 * Description: Click Return to Home page
