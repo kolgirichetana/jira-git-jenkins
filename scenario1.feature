@@ -1,6 +1,6 @@
 Feature: Scenario1
 
-  @ORPHAN
+  @CIT-4 @OPEN
   Scenario: Testing Borland
     Given I Open "Chrome" browser
     And User navigates to Catalog page
