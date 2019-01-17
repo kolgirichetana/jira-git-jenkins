@@ -23,6 +23,7 @@ public class OrderConfirmPage extends ActionMethods {
 		//ActionMethods.captureScreenshot("Order Confirmation Page");
 	}
 	
+	//Demo Code
 	
 	/**
 	 * @author DHIRESH
