@@ -1,6 +1,6 @@
 Feature: jan
 
-  @ORPHAN
+  @CIT-1 @OPEN
   Scenario: sec 1
     Given abc
     When xyz
