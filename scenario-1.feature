@@ -1,1 +1,0 @@
-Feature: Scenario 1
