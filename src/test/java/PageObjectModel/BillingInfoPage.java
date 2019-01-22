@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import Utilities.ActionMethods;
 
 import junit.framework.Assert;
-
+//Test CIT-5
 @SuppressWarnings("deprecation")
 public class BillingInfoPage extends ActionMethods
 {
