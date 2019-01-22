@@ -1,6 +1,6 @@
 Feature: Demo123
 
-  @ORPHAN
+  @CIT-5 @OPEN
   Scenario: LoginFeature
     Given User is on Borland login page
     When User enters valid user name and password
